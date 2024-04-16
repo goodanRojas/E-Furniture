@@ -1,0 +1,18 @@
+Staff page
+
+Consolidition sa product
+    Update ang status sa product (drop down)
+        - Damage 
+        - Repairable
+        - bought : if bought e add ang info sa user
+
+    Makita pd sa admin kong unsay gi consolidate sa staff or hing consilidate ba sija
+
+    maka add ang admin og staff or user
+
+    makita sa admin ang ijang personal logs as well sa ang logs sa mga staff nga hing consilidate.
+
+    makita sa staff ang ijang personal logs
+
+    
+
